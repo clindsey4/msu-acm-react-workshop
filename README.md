@@ -3,15 +3,12 @@ Welcome to the MSU ACM React workshop!
 
 ## Prerequisites
 Before you start, make sure you do the following:
-1. [Install](https://nodejs.org/en/download) the latest version of Node.js if you do not already have it installed.
+1. [Install the latest version of Node.js](https://nodejs.org/en/download) 
    - To see if you already have it installed, open a command prompt and run
      ```
      node -v
      ```
-   - If you have it installed, you will see an output like
-     ```
-     v22.12.0
-     ```
+   - If you have it installed, you will see an output like ``v22.12.0``
 
 ## Chapters
 1. [React: Hello, World!](docs/1-react-hello-world.md) (Start Here)
